@@ -14,7 +14,7 @@ screen -S VV
 sudo qbittorrent-nox
 ```
 ctrl+A+D，从VV退出
-删除窗口
+#删除窗口
 ```
  screen -S VV -X quit
 ```
